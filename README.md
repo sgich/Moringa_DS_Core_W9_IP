@@ -1,6 +1,6 @@
 # Data Science Core Independent Project Week 9
 
-## __Classification on Titanic & Email Datasets__ ##
+## __Classification of Titanic & Email Datasets__ ##
 
 
 ## _Description_ ##
